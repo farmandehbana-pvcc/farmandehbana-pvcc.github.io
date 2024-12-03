@@ -1,0 +1,4 @@
+Employee Name	Hours Worked	Pay Rate	Total Pay
+John Doe	40	$15	$600
+Jane Smith	38	$16	$608
+Sam Brown	42	$14	$588
